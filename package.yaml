@@ -1,0 +1,13 @@
+name: ml-functions
+version: '0.1.0.0'
+category: Machine Learning
+author: Sebastian Callh
+maintainer: sebastian.callh@gmail..com
+copyright: 2018 Sebastian Callh
+license: BSD3
+homepage: https://github.com/sebastiancallh/ml-functions#readme
+extra-source-files:
+- README.md
+dependencies:
+- base >=4.7 && <5
+- vector >= 0.12 && < 0.13
